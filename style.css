@@ -1,0 +1,53 @@
+h1{
+    background-color: brown;
+    color: cyan;
+    border: 20px solid hotpink;
+    border-radius: 30px;
+    margin: 20px 10px;
+    padding: 20px 10px;
+    text-align: center;
+}
+h2{
+    background-color: hotpink;
+    color: indigo;
+    border: 20px dashed yellow;
+    border-radius: 25px;
+    margin: 10px 20px 15px;
+    padding:15px;
+    text-align: center;
+}
+h3{
+    background-color: darkslateblue;
+    color: wheat;
+    border-radius: 30px;
+    border: 30px;
+    margin: 20px 15px;
+    padding: 20px 30px;
+    text-align: center;
+}
+
+.golpo{
+    background-color: black;
+    color: hotpink;
+    border: 20px solid yellowgreen;
+    border-radius: 15px;
+    margin: 20px;
+    padding: 15px;
+    font-size: x-large;
+}
+#forom{
+    background-color: green;
+    color: greenyellow;
+    border: 20px solid saddlebrown;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+}
+#link{
+    border: 20px solid salmon;
+    color: snow;
+    border-radius: 20px;
+    background-color: violet;
+    margin: 15px;
+    padding: 15px;
+}
